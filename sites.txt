@@ -1,0 +1,18 @@
+myinfo = https://heuristic-lichterman-d43558.netlify.app/
+
+wordswithfriends = https://words-node-chat-app.herokuapp.com/
+
+footyforum = https://jhfooty-client.herokuapp.com/
+
+travelpage = https://jhussong.github.io/travelagency/
+
+gallery = https://jhussong.github.io/bandwgallery/
+
+clonewars = https://jhussong.github.io/clonewars/
+
+
+https://www.linkedin.com/in/joe-hussong-26a129188/
+
+https://github.com/JHussong
+
+https://twitter.com/King_JosephII
